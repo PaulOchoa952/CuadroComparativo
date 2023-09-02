@@ -113,3 +113,46 @@ td {
     padding: 0; /* Elimina el relleno predeterminado de la lista */
 }
 
+/* Estilos para el div conclusion */
+.conclusion {
+    background-color: #c9c6c6;
+    text-align: center;
+    padding: 10px; /* Añade relleno para separar el contenido del borde */
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(38, 38, 38, 0.1);
+}
+
+/* Estilos para el encabezado h1 en la conclusión */
+.conclusion h1 {
+    font-size: 24px; /* Tamaño del encabezado */
+    margin: 0; /* Elimina el margen superior e inferior predeterminado */
+}
+
+/* Estilos para el párrafo en la conclusión */
+.conclusion p {
+    font-size: 16px; /* Tamaño del párrafo */
+    margin-top: 10px; /* Agrega un margen superior para separar del encabezado */
+}
+
+/* Estilos para el div Bibliografía */
+.biblio {
+    background-color: #c9c6c6;
+    text-align: center;
+    padding: 10px; /* Añade relleno para separar el contenido del borde */
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(38, 38, 38, 0.1);
+}
+
+/* Estilos para la lista de bibliografía */
+.biblio h1 {
+    font-size: 24px; /* Tamaño del encabezado */
+    margin: 0; /* Elimina el margen superior e inferior predeterminado */
+}
+
+/* Estilos para los elementos de la lista de bibliografía */
+.biblio p {
+    font-size: 16px; /* Tamaño del párrafo */
+    margin-top: 10px; /* Agrega un margen superior para separar del encabezado */
+}
